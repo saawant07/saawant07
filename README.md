@@ -40,15 +40,6 @@ pricing, location, cuisine, and customer-rating patterns.
 
 **Python • Pandas • Matplotlib • Seaborn**
 
-### 🧾 AutoBill Buddy
-Voice-powered billing system developed as part of a college hackathon
-project.
-
-**HTML • JavaScript**
-
-### 💻 LeetCode
-Solutions and practice problems focused on improving problem-solving
-and data structures & algorithms skills.
 
 **Python**
 
@@ -71,7 +62,7 @@ and data structures & algorithms skills.
 ## 📫 Connect With Me
 
 - GitHub: [@saawant07](https://github.com/saawant07)
-- LinkedIn: **Add your LinkedIn URL here**
+- LinkedIn: https://www.linkedin.com/in/saawant-gupta-514979306/
 
 ---
 
