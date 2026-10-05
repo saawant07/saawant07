@@ -1,68 +1,45 @@
 # Hi, I'm Saawant Gupta 👋
 
-🎓 B.Tech CSE (AI & ML) Student  
-📊 Aspiring Data Analyst → AI Engineer  
-💻 Python | SQL | Data Analytics | Machine Learning
+**B.Tech CSE (AI & ML) | Aspiring Data Analyst → AI Engineer**
 
-## About Me
-
-I'm a Computer Science student specializing in Artificial Intelligence
-and Machine Learning, currently focused on building strong foundations
-in Python, SQL, data analytics, and problem solving.
-
-I enjoy building practical projects and turning real-world data into
-useful insights.
+I build practical projects using Python, SQL, and data to solve
+real-world problems and develop strong foundations in AI/ML.
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C
-- SQL
+**Languages:** Python • C • SQL
 
-### Data & Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+**Data & Analytics:** Pandas • NumPy • Matplotlib • Seaborn • Jupyter
 
-### Tools
-- Git
-- GitHub
-- VS Code
+**Tools:** Git • GitHub • VS Code
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🍽️ Zomato Bangalore Restaurant Analysis
+### 📊 Zomato Bangalore Restaurant Analysis
+
 Exploratory data analysis of Bangalore restaurant data to understand
 pricing, location, cuisine, and customer-rating patterns.
 
 **Python • Pandas • Matplotlib • Seaborn**
 
-
-**Python**
-
 ## 📚 Currently Learning
 
+- Data Analytics
 - Advanced SQL
 - Power BI
-- Data Analytics
 - Statistics
 - Machine Learning
 - Data Structures & Algorithms
 
-## 🎯 Goals
+## 🎯 Career Goal
 
-- Build strong Data Analytics skills
-- Secure a Data Analyst internship
-- Develop real-world AI/ML projects
-- Eventually work as an AI Engineer
+Build strong Data Analytics skills, gain industry experience, and
+eventually transition into AI Engineering.
 
 ## 📫 Connect With Me
 
-- GitHub: [@saawant07](https://github.com/saawant07)
-- LinkedIn: https://www.linkedin.com/in/saawant-gupta-514979306/
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [GitHub](https://github.com/saawant07)
 
 ---
 
